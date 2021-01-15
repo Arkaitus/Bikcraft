@@ -6,4 +6,4 @@ Neste projeto é ensinado a criação do site Bikcraft des do 0, utilizando as t
 
 
 ##Imagem da Home
-<img src=”home.jpg”>
+![home](https://user-images.githubusercontent.com/54044208/104760032-8cb28d00-573f-11eb-983d-7856d0fce552.jpg)
